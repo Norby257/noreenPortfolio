@@ -1,3 +1,7 @@
-# Final Portfolio 
 
-This is a portfolio showcasing all of the skills I have gained by building full-stack applications throughout the Web Development program at Northwestern University. 
+# Noreen's Portfolio 
+
+
+This is a portfoio showcasing my deployed projects. I have learned both front-end and back-end Javascript,  in addition to database langauges and python, in this six month, intensive web development course through Northwestern University. 
+
+Check out my portfolio here: https://norby257.github.io/noreenPortfolio/ 
